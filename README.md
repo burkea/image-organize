@@ -18,3 +18,7 @@ Known Issues:
 We cannot overwrite Mov files with the same name.
 The code is not tidy at all. Maybe I'll implement a design pattern if I use a little more.
 jupyter notebook reueires
+
+**Next**
+
+Upload all my pictures&videos to google drive with same structre in local machine. 
